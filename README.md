@@ -1,1 +1,2 @@
-# Cbnst
+#CBNST
+This Repository is for the programs of COMPUTER BASED NUMERICAL AND STATISTICAL TECHNIQUES(CBNST)
