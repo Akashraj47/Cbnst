@@ -15,7 +15,7 @@ int main(){
     while(1){
         printf("Enter first value\n");
         scanf("%f",&a);
-        if(fabs(equation(a)) < 1){
+        if(fabs(diff_equation(a)) < 1){//diff_equation instead of equation
             break;
         }
     }
